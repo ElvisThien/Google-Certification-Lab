@@ -15,10 +15,12 @@ The Google certification labs helped me build a strong foundational understandin
 
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+Compliace checklist report.
 
-Every screenshot should have some text explaining what the screenshot is about.
+[Botium Toys risk assesment report.docx](https://github.com/user-attachments/files/23845916/Botium.Toys.risk.assesment.report.docx)
 
-Example below.
+[Botiem compliance checklist (Repaired).docx](https://github.com/user-attachments/files/23845892/Botiem.compliance.checklist.Repaired.docx)
 
-*Ref 1: Network Diagram*
+[Uploading Apply filters to SQL queries - Google Docs.pdf…]()
+
+[File permissions in Linux - Google Docs.docx](https://github.com/user-attachments/files/23847568/File.permissions.in.Linux.-.Google.Docs.docx)
