@@ -24,3 +24,7 @@ Compliace checklist report.
 [Uploading Apply filters to SQL queries - Google Docs.pdf…]()
 
 [File permissions in Linux - Google Docs.docx](https://github.com/user-attachments/files/23847568/File.permissions.in.Linux.-.Google.Docs.docx)
+
+[Vulnerability assessment report - Google Docs.pdf](https://github.com/user-attachments/files/23918147/Vulnerability.assessment.report.-.Google.Docs.pdf)
+
+[Activity Template_ Data leak worksheet - Google Docs.docx](https://github.com/user-attachments/files/23918165/Activity.Template_.Data.leak.worksheet.-.Google.Docs.docx)
