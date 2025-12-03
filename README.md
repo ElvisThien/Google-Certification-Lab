@@ -11,6 +11,8 @@ The Google certification labs helped me build a strong foundational understandin
 - Applying Filter TO SQL QUERIES
 - File Permissions in Linux
 - Compliance Checklist
+- Vulenerabilty assessment reports
+- Data leak worksheet
 
 
 
