@@ -13,6 +13,7 @@ The Google certification labs helped me build a strong foundational understandin
 - Compliance Checklist
 - Vulenerabilty assessment reports
 - Data leak worksheet
+- Incident Handlers Journal
 
 
 
@@ -30,3 +31,5 @@ Compliace checklist report.
 [Vulnerability assessment report - Google Docs.pdf](https://github.com/user-attachments/files/23918147/Vulnerability.assessment.report.-.Google.Docs.pdf)
 
 [Activity Template_ Data leak worksheet - Google Docs.docx](https://github.com/user-attachments/files/23918165/Activity.Template_.Data.leak.worksheet.-.Google.Docs.docx)
+
+[Incident handler's journal - Port.pdf](https://github.com/user-attachments/files/23921389/Incident.handler.s.journal.-.Port.pdf)
